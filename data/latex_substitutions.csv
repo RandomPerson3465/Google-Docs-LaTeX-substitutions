@@ -384,6 +384,7 @@ _9,₉
 \kappa,κ
 \lambda,λ
 \land,∧
+\lceil,⌈
 \ldots,…
 \leftarrow,⇐
 \leftharpoondown,↽
@@ -391,6 +392,7 @@ _9,₉
 \leftrightarrow,⇔
 \leq,≤
 \leqslant,⩽
+\lfloor,⌊
 \ll,≪
 \lnot,¬
 \longleftarrow,⟸
@@ -679,7 +681,9 @@ _9,₉
 \prod,∏
 \propto,∝
 \psi,ψ
+\rceil,⌉
 \re,ℜ
+\rfloor,⌋
 \rho,ρ
 \rightarrow,⇒
 \rightharpoondown,⇁
