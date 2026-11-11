@@ -1,3 +1,5 @@
+.env
+downloaded_files
 main2.py
 output.csv
 __pycache__
